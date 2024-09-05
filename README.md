@@ -46,3 +46,9 @@ int main() {
 	ft_printf("The number is %d.\n", 42);
 	return 0;
 }
+
+Compile and run your program:
+
+```bash
+gcc -o my_program my_program.c libftprintf.a
+./my_program
