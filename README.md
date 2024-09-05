@@ -45,7 +45,8 @@ int main() {
 	ft_printf("Hello, %s!\n", "world");
 	ft_printf("The number is %d.\n", 42);
 	return 0;
-}```
+}
+```
 
 Compile and run your program:
 
